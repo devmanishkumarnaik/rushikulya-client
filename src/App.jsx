@@ -34,7 +34,7 @@ export default function App() {
       <header className="header">
         <div className="brand">
           <img src={treeLogo} alt="Rushikulya Logo" className="brand-logo" />
-          Rushikulya
+          
         </div>
         <nav className={menuOpen ? "nav open" : "nav"}>
           <NavLink to="/" onClick={() => setMenuOpen(false)}>Home</NavLink>
