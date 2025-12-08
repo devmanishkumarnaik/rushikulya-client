@@ -166,7 +166,7 @@ function Home({ loading, items }) {
           <div className="hero-content">
             <span className="pill pill-glow">✨ Welcome to Rushikulya</span>
             <div className="hero-title">
-              Goods & Services
+              Goods & Services Multimart
             </div>
             <div className="hero-subtitle">
               Offers a unified marketplace connecting buyers and sellers with trusted products, reliable services, fast delivery, and seamless community-driven commerce.
